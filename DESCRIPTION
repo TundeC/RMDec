@@ -2,7 +2,7 @@ Package: advregexam
 Type: Package
 Title: Data for the Advanced Regression Examination
 Version: 0.2.0
-Authors@R: person("Your", "Name", email = "you@example.ac.uk", role = c("aut", "cre"))
+Authors@R: person("Tunde", "Csoban", email = "tunde.csoban@strath.ac.uk", role = c("aut", "cre"))
 Description: Provides the data sets used in the Advanced Regression
     examination.
 License: CC0
